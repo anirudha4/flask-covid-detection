@@ -1,0 +1,9 @@
+flask
+gunicorn
+sklearn
+pandas
+numpy
+flask-cors
+tensorflow
+matplotlib
+opencv-python
